@@ -1,0 +1,8 @@
+C:\Sundar\Capsule\TaskManagerService\TaskManager.Data\bin\Release\TaskManager.Data.dll.config
+C:\Sundar\Capsule\TaskManagerService\TaskManager.Data\bin\Release\TaskManager.Data.dll
+C:\Sundar\Capsule\TaskManagerService\TaskManager.Data\bin\Release\TaskManager.Data.pdb
+C:\Sundar\Capsule\TaskManagerService\TaskManager.Data\bin\Release\EntityFramework.dll
+C:\Sundar\Capsule\TaskManagerService\TaskManager.Data\bin\Release\EntityFramework.xml
+C:\Sundar\Capsule\TaskManagerService\TaskManager.Data\obj\Release\TaskManager.Data.csprojResolveAssemblyReference.cache
+C:\Sundar\Capsule\TaskManagerService\TaskManager.Data\obj\Release\TaskManager.Data.dll
+C:\Sundar\Capsule\TaskManagerService\TaskManager.Data\obj\Release\TaskManager.Data.pdb
